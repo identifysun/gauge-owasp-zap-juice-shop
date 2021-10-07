@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.spec": "gauge",
+        "*.cpt": "gauge"
+    },
+    "files.autoSave": "afterDelay",
+    "python.pythonPath": "/Users/jiansun/.pyenv/shims/python2",
+    "files.autoSaveDelay": 500
+}
